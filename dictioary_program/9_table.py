@@ -10,6 +10,7 @@
 @Title : Write a Python program to print in table format
 
 '''
+import pandas
 def main():
     my_dict = {(0, 0): 'Shreyash', (0, 1): 2, (0, 2): 'AI',
          (1, 0): 'Anish', (1, 1): 3, (1, 2): 'Web devlopment',
